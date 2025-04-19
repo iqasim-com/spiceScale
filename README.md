@@ -1,4 +1,4 @@
-# SpiceScale
+# SpiceScale with Bolt ai
 
 SpiceScale is a modern web application for scaling Pakistani and Indian recipes based on the number of servings needed. Built with React, TypeScript, and Redux, it helps home cooks adjust authentic recipes for any gathering size while maintaining the perfect balance of spices and ingredients.
 
